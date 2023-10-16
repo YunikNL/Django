@@ -1,0 +1,51 @@
+body{
+    background-color: #a83232ed;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    margin: 0;
+}
+
+h1{
+    color: orange;
+    margin: 0;
+}
+
+#links{
+    color: orange;
+}
+
+.auto-sizing-div{
+    background-color: pink;
+    width: 505px;
+    margin-left: 500px;
+}
+article{
+    background-color: pink;
+    width: 500px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    border: 3px solid white;}
+
+header{
+    background-color: orange;
+    height: 150px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+footer{
+    height: 75px;
+    background-color: orange;
+    margin: 0;
+}
+
+#kopstuk{
+    color: black;
+    padding-top: 54px;
+    padding-left: 200px;
+}
+
+a{
+    color: black;
+}
